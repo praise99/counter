@@ -6,7 +6,7 @@ body{
 .container{
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    padding-top: 13rem;
+    padding-top: 6rem;
 }
 .title{
     font-weight: 400;
@@ -22,7 +22,7 @@ body{
 }
 button{
     background-color: white;
-    width: 6.8rem;
+    width: 6.4rem;
     padding: 0.3rem;
     margin-right: 0.9rem;
     border-radius: 0.5rem;
